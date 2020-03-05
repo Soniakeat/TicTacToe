@@ -1,0 +1,9 @@
+
+
+.column{
+  border: 1px solid black;
+  width: 33%;
+  float: left;
+  min-height: 20px;
+}
+
